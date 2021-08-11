@@ -1,2 +1,13 @@
 # Iris-Model-Prediction-and-Deployment
-An API is built using streamlit that classifies iris flowers , giving user 2 option of machine learning model to use
+## Objective- 
+Prediction of flower species of Iris data set using Classification Models
+## Steps-
+* Import libraries and load data set
+* Exploratory Data Analysis 
+* Train test split
+* Model Building
+## Models Used-
+* Logistic Regression
+* Decision Tree
+## Deployment-
+finally deployed model on heroku using streamlit and  here is deployment link:- https://iris-data-classification-model.herokuapp.com/
